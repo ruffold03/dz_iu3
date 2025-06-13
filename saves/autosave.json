@@ -1,0 +1,1036 @@
+{
+  "map": {
+    "cells": [
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "hotel",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no",
+          "fine": 0,
+          "stop": false
+        }
+      ]
+    ],
+    "width": 10,
+    "height": 10,
+    "radius": 3,
+    "castleX": 0,
+    "castleY": 0,
+    "enemyCastleX": 0,
+    "enemyCastleY": 0
+  },
+  "heroes": [
+    {
+      "x": 4,
+      "y": 9,
+      "moveCount": 0.0,
+      "strength": 10,
+      "gold": 12800.0,
+      "xCastle": 0,
+      "yCastle": 0,
+      "name": "Кристиан",
+      "army": [
+        {
+          "moveRange": 4,
+          "attackRange": 1,
+          "name": "Копейщик",
+          "health": 100,
+          "attackPower": 75,
+          "defense": 25,
+          "moveRange2": 4,
+          "x": 0,
+          "y": 0,
+          "count": 5,
+          "isAttacked": false,
+          "type": "Spearman"
+        },
+        {
+          "moveRange": 4,
+          "attackRange": 9,
+          "name": "Лучник",
+          "health": 80,
+          "attackPower": 100,
+          "defense": 10,
+          "moveRange2": 4,
+          "x": 0,
+          "y": 0,
+          "count": 5,
+          "isAttacked": false,
+          "type": "Archer"
+        }
+      ],
+      "check": false,
+      "lose": false,
+      "visitStable": false,
+      "isMove": false,
+      "education": "Неуч",
+      "whale": {
+        "noSkip": false,
+        "level": 0,
+        "activated": false,
+        "noFine": false,
+        "moveCount": 5.0,
+        "x": 0,
+        "y": 0,
+        "radius": 2,
+        "speed": 1,
+        "type": "Whales"
+      },
+      "husky": {
+        "noSkip": false,
+        "level": 0,
+        "activated": false,
+        "noFine": false,
+        "moveCount": 5.0,
+        "x": 0,
+        "y": 0,
+        "radius": 2,
+        "speed": 1,
+        "type": "Husky"
+      },
+      "eagle": {
+        "level": 0,
+        "activated": false,
+        "noFine": false,
+        "moveCount": 5.0,
+        "x": 0,
+        "y": 0,
+        "radius": 2,
+        "speed": 1,
+        "type": "Eagle"
+      }
+    }
+  ],
+  "currentHero": {
+    "x": 4,
+    "y": 9,
+    "moveCount": 0.0,
+    "strength": 10,
+    "gold": 12800.0,
+    "xCastle": 0,
+    "yCastle": 0,
+    "name": "Кристиан",
+    "army": [
+      {
+        "moveRange": 4,
+        "attackRange": 1,
+        "name": "Копейщик",
+        "health": 100,
+        "attackPower": 75,
+        "defense": 25,
+        "moveRange2": 4,
+        "x": 0,
+        "y": 0,
+        "count": 5,
+        "isAttacked": false,
+        "type": "Spearman"
+      },
+      {
+        "moveRange": 4,
+        "attackRange": 9,
+        "name": "Лучник",
+        "health": 80,
+        "attackPower": 100,
+        "defense": 10,
+        "moveRange2": 4,
+        "x": 0,
+        "y": 0,
+        "count": 5,
+        "isAttacked": false,
+        "type": "Archer"
+      }
+    ],
+    "check": false,
+    "lose": false,
+    "visitStable": false,
+    "isMove": false,
+    "education": "Неуч",
+    "whale": {
+      "noSkip": false,
+      "level": 0,
+      "activated": false,
+      "noFine": false,
+      "moveCount": 5.0,
+      "x": 0,
+      "y": 0,
+      "radius": 2,
+      "speed": 1,
+      "type": "Whales"
+    },
+    "husky": {
+      "noSkip": false,
+      "level": 0,
+      "activated": false,
+      "noFine": false,
+      "moveCount": 5.0,
+      "x": 0,
+      "y": 0,
+      "radius": 2,
+      "speed": 1,
+      "type": "Husky"
+    },
+    "eagle": {
+      "level": 0,
+      "activated": false,
+      "noFine": false,
+      "moveCount": 5.0,
+      "x": 0,
+      "y": 0,
+      "radius": 2,
+      "speed": 1,
+      "type": "Eagle"
+    }
+  },
+  "enemies": [
+    {
+      "x": 0,
+      "y": 0,
+      "gold": 3300.0,
+      "strength": 100,
+      "moveCount": 0.0,
+      "radius": 3,
+      "army": [
+        {
+          "moveRange": 4,
+          "attackRange": 9,
+          "name": "Лучник",
+          "health": 80,
+          "attackPower": 100,
+          "defense": 10,
+          "moveRange2": 4,
+          "x": 0,
+          "y": 0,
+          "count": 5,
+          "isAttacked": false,
+          "type": "Archer"
+        },
+        {
+          "moveRange": 4,
+          "attackRange": 1,
+          "name": "Копейщик",
+          "health": 100,
+          "attackPower": 150,
+          "defense": 50,
+          "moveRange2": 4,
+          "x": 0,
+          "y": 0,
+          "count": 10,
+          "isAttacked": false,
+          "type": "Spearman"
+        }
+      ],
+      "xCastle": 0,
+      "yCastle": 0,
+      "check": false,
+      "lose": false
+    }
+  ],
+  "currentEnemy": {
+    "x": 0,
+    "y": 0,
+    "gold": 3300.0,
+    "strength": 100,
+    "moveCount": 0.0,
+    "radius": 3,
+    "army": [
+      {
+        "moveRange": 4,
+        "attackRange": 9,
+        "name": "Лучник",
+        "health": 80,
+        "attackPower": 100,
+        "defense": 10,
+        "moveRange2": 4,
+        "x": 0,
+        "y": 0,
+        "count": 5,
+        "isAttacked": false,
+        "type": "Archer"
+      },
+      {
+        "moveRange": 4,
+        "attackRange": 1,
+        "name": "Копейщик",
+        "health": 100,
+        "attackPower": 150,
+        "defense": 50,
+        "moveRange2": 4,
+        "x": 0,
+        "y": 0,
+        "count": 10,
+        "isAttacked": false,
+        "type": "Spearman"
+      }
+    ],
+    "xCastle": 0,
+    "yCastle": 0,
+    "check": false,
+    "lose": false
+  },
+  "day": 0,
+  "week": 2,
+  "gameRunning": true,
+  "playerCastle": {
+    "x": 0,
+    "y": 0,
+    "buildings": {
+      "Сторожевая башня": {
+        "name": "Сторожевая башня",
+        "price": 400,
+        "unitType": "Копейщик",
+        "unitPrice": 40.0,
+        "upgradePrice": 400,
+        "upgradeName": "Улучшенная сторожевая башня",
+        "upgradeUnit": "Алебардщик",
+        "upgradeUnitPrice": 60.0,
+        "upgraded": false
+      }
+    },
+    "specialBuildings": {},
+    "garrison": [],
+    "rent": 400.0,
+    "newHeroes": [
+      "Оррин",
+      "Валеска",
+      "Ингэм"
+    ],
+    "isLosed": false
+  },
+  "enemyCastle": {
+    "x": 0,
+    "y": 0,
+    "buildings": {
+      "Сторожевая башня": {
+        "name": "Сторожевая башня",
+        "price": 400,
+        "unitType": "Копейщик",
+        "unitPrice": 40.0,
+        "upgradePrice": 400,
+        "upgradeName": "Улучшенная сторожевая башня",
+        "upgradeUnit": "Алебардщик",
+        "upgradeUnitPrice": 60.0,
+        "upgraded": false
+      }
+    },
+    "specialBuildings": {},
+    "garrison": [],
+    "rent": 400.0,
+    "newHeroes": [
+      "Оррин",
+      "Валеска",
+      "Ингэм"
+    ],
+    "isLosed": false
+  }
+}

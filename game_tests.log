@@ -1,0 +1,68 @@
+мая 17, 2025 4:11:50 PM test.game.GameTest setUp
+INFO: Начало настройки тестового окружения
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Тестовое окружение успешно настроено
+мая 17, 2025 4:11:51 PM test.game.GameTest testWinByCapturingCastle
+INFO: Запуск теста победы через захват замка
+мая 17, 2025 4:11:51 PM test.game.GameTest testWinByCapturingCastle
+INFO: Тест победы через захват замка завершен успешно
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Начало настройки тестового окружения
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Тестовое окружение успешно настроено
+мая 17, 2025 4:11:51 PM test.game.GameTest testGoldTransferAfterVictory
+INFO: Тестирование передачи золота после победы
+мая 17, 2025 4:11:51 PM test.game.GameTest testGoldTransferAfterVictory
+INFO: Тест передачи золота завершен успешно
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Начало настройки тестового окружения
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Тестовое окружение успешно настроено
+мая 17, 2025 4:11:51 PM test.game.GameTest testWinByKillEnemy
+INFO: Запуск теста победы через уничтожение врагов
+мая 17, 2025 4:11:51 PM test.game.GameTest testWinByKillEnemy
+INFO: Тест победы через уничтожение врагов завершен успешно
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Начало настройки тестового окружения
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Тестовое окружение успешно настроено
+мая 17, 2025 4:11:51 PM test.game.GameTest testMultipleHeroes
+INFO: Тестирование работы с несколькими героями
+мая 17, 2025 4:11:51 PM test.game.GameTest testMultipleHeroes
+INFO: Тест работы с несколькими героями завершен успешно
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Начало настройки тестового окружения
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Тестовое окружение успешно настроено
+мая 17, 2025 4:11:51 PM test.game.GameTest testLoseByEnemyCapturingCastle
+INFO: Запуск теста поражения при захвате замка врагом
+мая 17, 2025 4:11:51 PM test.game.GameTest testLoseByEnemyCapturingCastle
+INFO: Тест поражения при захвате замка врагом завершен
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Начало настройки тестового окружения
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Тестовое окружение успешно настроено
+мая 17, 2025 4:11:51 PM test.game.GameTest testHeroMove
+INFO: Тестирование перемещения героя
+мая 17, 2025 4:11:51 PM test.game.GameTest testHeroMove
+WARNING: Герой пытается попасть на клетку моря
+мая 17, 2025 4:11:51 PM test.game.GameTest testHeroMove
+WARNING: Герой пытается попасть на клетку горы
+мая 17, 2025 4:11:51 PM test.game.GameTest testHeroMove
+INFO: Тест перемещения героя завершен: море и горы непроходимы
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Начало настройки тестового окружения
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Тестовое окружение успешно настроено
+мая 17, 2025 4:11:51 PM test.game.GameTest testLoseByLosingHeroes
+INFO: Запуск теста поражения при потере всех героев
+мая 17, 2025 4:11:51 PM test.game.GameTest testLoseByLosingHeroes
+INFO: Тест поражения при потере героев завершен
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Начало настройки тестового окружения
+мая 17, 2025 4:11:51 PM test.game.GameTest setUp
+INFO: Тестовое окружение успешно настроено
+мая 17, 2025 4:11:51 PM test.game.GameTest testGameCycle
+INFO: Тестирование игрового цикла
+мая 17, 2025 4:11:51 PM test.game.GameTest testGameCycle
+INFO: Игровой цикл отработал успешно

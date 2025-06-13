@@ -1,0 +1,1471 @@
+{
+  "map": {
+    "cells": [
+      [
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "mountain"
+        },
+        {
+          "type": "castleHero",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        }
+      ],
+      [
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        }
+      ],
+      [
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "sea",
+          "isVisible": true,
+          "feature": "no"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        }
+      ],
+      [
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        }
+      ],
+      [
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        }
+      ],
+      [
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        }
+      ],
+      [
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "castleEnemy",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "path",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "sea",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        }
+      ],
+      [
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        }
+      ],
+      [
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        }
+      ],
+      [
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "snow",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "desert",
+          "isVisible": false,
+          "feature": "gold"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "no"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "tree"
+        },
+        {
+          "type": "field",
+          "isVisible": false,
+          "feature": "mountain"
+        }
+      ]
+    ],
+    "width": 15,
+    "height": 15,
+    "radius": 3,
+    "castleX": 0,
+    "castleY": 0,
+    "enemyCastleX": 0,
+    "enemyCastleY": 0
+  },
+  "heroes": [
+    {
+      "x": 1,
+      "y": 10,
+      "moveCount": 6.0,
+      "strength": 10,
+      "gold": 10400.0,
+      "xCastle": 0,
+      "yCastle": 10,
+      "name": "Кристиан",
+      "army": [
+        {
+          "moveRange": 4,
+          "attackRange": 1,
+          "name": "Копейщик",
+          "health": 100,
+          "attackPower": 75,
+          "defense": 25,
+          "moveRange2": 4,
+          "x": 0,
+          "y": 0,
+          "count": 5,
+          "isAttacked": false,
+          "type": "Spearman"
+        },
+        {
+          "moveRange": 4,
+          "attackRange": 9,
+          "name": "Лучник",
+          "health": 80,
+          "attackPower": 100,
+          "defense": 10,
+          "moveRange2": 4,
+          "x": 0,
+          "y": 0,
+          "count": 5,
+          "isAttacked": false,
+          "type": "Archer"
+        }
+      ],
+      "check": false,
+      "lose": false,
+      "visitStable": false,
+      "isMove": false,
+      "education": "Неуч",
+      "whale": {
+        "noSkip": false,
+        "level": 0,
+        "activated": false,
+        "noFine": false,
+        "moveCount": 5.0,
+        "x": 0,
+        "y": 0,
+        "radius": 2,
+        "speed": 1,
+        "type": "Whales"
+      },
+      "husky": {
+        "noSkip": false,
+        "level": 0,
+        "activated": false,
+        "noFine": false,
+        "moveCount": 5.0,
+        "x": 0,
+        "y": 0,
+        "radius": 2,
+        "speed": 1,
+        "type": "Husky"
+      },
+      "eagle": {
+        "level": 0,
+        "activated": false,
+        "noFine": false,
+        "moveCount": 5.0,
+        "x": 0,
+        "y": 0,
+        "radius": 2,
+        "speed": 1,
+        "type": "Eagle"
+      }
+    }
+  ],
+  "currentHero": {
+    "x": 1,
+    "y": 10,
+    "moveCount": 6.0,
+    "strength": 10,
+    "gold": 10400.0,
+    "xCastle": 0,
+    "yCastle": 10,
+    "name": "Кристиан",
+    "army": [
+      {
+        "moveRange": 4,
+        "attackRange": 1,
+        "name": "Копейщик",
+        "health": 100,
+        "attackPower": 75,
+        "defense": 25,
+        "moveRange2": 4,
+        "x": 0,
+        "y": 0,
+        "count": 5,
+        "isAttacked": false,
+        "type": "Spearman"
+      },
+      {
+        "moveRange": 4,
+        "attackRange": 9,
+        "name": "Лучник",
+        "health": 80,
+        "attackPower": 100,
+        "defense": 10,
+        "moveRange2": 4,
+        "x": 0,
+        "y": 0,
+        "count": 5,
+        "isAttacked": false,
+        "type": "Archer"
+      }
+    ],
+    "check": false,
+    "lose": false,
+    "visitStable": false,
+    "isMove": false,
+    "education": "Неуч",
+    "whale": {
+      "noSkip": false,
+      "level": 0,
+      "activated": false,
+      "noFine": false,
+      "moveCount": 5.0,
+      "x": 0,
+      "y": 0,
+      "radius": 2,
+      "speed": 1,
+      "type": "Whales"
+    },
+    "husky": {
+      "noSkip": false,
+      "level": 0,
+      "activated": false,
+      "noFine": false,
+      "moveCount": 5.0,
+      "x": 0,
+      "y": 0,
+      "radius": 2,
+      "speed": 1,
+      "type": "Husky"
+    },
+    "eagle": {
+      "level": 0,
+      "activated": false,
+      "noFine": false,
+      "moveCount": 5.0,
+      "x": 0,
+      "y": 0,
+      "radius": 2,
+      "speed": 1,
+      "type": "Eagle"
+    }
+  },
+  "enemies": [
+    {
+      "x": 12,
+      "y": 4,
+      "gold": 900.0,
+      "strength": 100,
+      "moveCount": 6.0,
+      "radius": 3,
+      "army": [
+        {
+          "moveRange": 4,
+          "attackRange": 9,
+          "name": "Лучник",
+          "health": 80,
+          "attackPower": 100,
+          "defense": 10,
+          "moveRange2": 4,
+          "x": 0,
+          "y": 0,
+          "count": 5,
+          "isAttacked": false,
+          "type": "Archer"
+        },
+        {
+          "moveRange": 4,
+          "attackRange": 1,
+          "name": "Копейщик",
+          "health": 100,
+          "attackPower": 150,
+          "defense": 50,
+          "moveRange2": 4,
+          "x": 0,
+          "y": 0,
+          "count": 10,
+          "isAttacked": false,
+          "type": "Spearman"
+        }
+      ],
+      "xCastle": 11,
+      "yCastle": 4,
+      "check": false,
+      "lose": false
+    }
+  ],
+  "currentEnemy": {
+    "x": 12,
+    "y": 4,
+    "gold": 900.0,
+    "strength": 100,
+    "moveCount": 6.0,
+    "radius": 3,
+    "army": [
+      {
+        "moveRange": 4,
+        "attackRange": 9,
+        "name": "Лучник",
+        "health": 80,
+        "attackPower": 100,
+        "defense": 10,
+        "moveRange2": 4,
+        "x": 0,
+        "y": 0,
+        "count": 5,
+        "isAttacked": false,
+        "type": "Archer"
+      },
+      {
+        "moveRange": 4,
+        "attackRange": 1,
+        "name": "Копейщик",
+        "health": 100,
+        "attackPower": 150,
+        "defense": 50,
+        "moveRange2": 4,
+        "x": 0,
+        "y": 0,
+        "count": 10,
+        "isAttacked": false,
+        "type": "Spearman"
+      }
+    ],
+    "xCastle": 11,
+    "yCastle": 4,
+    "check": false,
+    "lose": false
+  },
+  "day": 1,
+  "week": 1,
+  "gameRunning": true,
+  "playerCastle": {
+    "x": 0,
+    "y": 10,
+    "buildings": {
+      "Сторожевая башня": {
+        "name": "Сторожевая башня",
+        "price": 400,
+        "unitType": "Копейщик",
+        "unitPrice": 40.0,
+        "upgradePrice": 400,
+        "upgradeName": "Улучшенная сторожевая башня",
+        "upgradeUnit": "Алебардщик",
+        "upgradeUnitPrice": 60.0,
+        "upgraded": false
+      }
+    },
+    "specialBuildings": {},
+    "garrison": [],
+    "rent": 400.0,
+    "newHeroes": [
+      "Оррин",
+      "Валеска",
+      "Ингэм"
+    ],
+    "isLosed": false
+  },
+  "enemyCastle": {
+    "x": 11,
+    "y": 4,
+    "buildings": {
+      "Сторожевая башня": {
+        "name": "Сторожевая башня",
+        "price": 400,
+        "unitType": "Копейщик",
+        "unitPrice": 40.0,
+        "upgradePrice": 400,
+        "upgradeName": "Улучшенная сторожевая башня",
+        "upgradeUnit": "Алебардщик",
+        "upgradeUnitPrice": 60.0,
+        "upgraded": false
+      }
+    },
+    "specialBuildings": {},
+    "garrison": [],
+    "rent": 400.0,
+    "newHeroes": [
+      "Оррин",
+      "Валеска",
+      "Ингэм"
+    ],
+    "isLosed": false
+  }
+}
